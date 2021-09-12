@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name ThermometryFull)(type KiCad)(uri ${KIPRJMOD}/ThermometryFull.pretty)(options "")(descr ""))
   (lib (name Thermometry)(type KiCad)(uri ${KIPRJMOD}/Thermometry.pretty)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/teensy.pretty)(options "")(descr ""))
 )
